@@ -15,3 +15,15 @@ Design​ ​patterns​ ​that describe​ ​how​ ​objects​ ​are​ �
 **Composite Pattern**: A design​ ​pattern​ ​for​ ​composing​ ​nested​ ​structures​ ​of​ ​objects​ and​ ​dealing with​ ​these​ ​objects​ ​uniformly.
 
 **Proxy Pattern**: A design pattern allows a proxy class to represent a real subject class
+
+**Decorator Pattern**: A structural pattern that allows additional behaviours or responsibilities to be dynamically attached to an object, through the use of aggregation to combine behaviours at run time.
+
+### Behavioural Pattern
+Design​ patterns that focus on ways that individual objects collaborate to achieve a common goal.
+
+**Template Method Pattern**: A design​ ​pattern defines an algorithm’s steps generally, deferring the implementation of some steps to subclasses.
+
+**Chain of Responsibility Pattern**: A design​ ​pattern​ ​that is a chain of objects(linked together) that are responsible for handling requests.
+
+**State Pattern**: A behavioural design pattern that can occur as objects in your code are aware of their current state, and thus can choose an appropriate behaviour based on their current state. When the current state changes, this behaviour can be altered.
+
