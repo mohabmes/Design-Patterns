@@ -27,4 +27,6 @@ Design​ patterns that focus on ways that individual objects collaborate to ach
 
 - **State Pattern**: A behavioural design pattern that can occur as objects in your code are aware of their current state, and thus can choose an appropriate behaviour based on their current state. When the current state changes, this behaviour can be altered.
 
+- **Command Pattern**: A behavioural pattern for encapsulating requests as objects.
 
+- **Observer Pattern**: A behavioral​ pattern​ for​ event handling.
