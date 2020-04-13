@@ -15,10 +15,9 @@ A reusable solution to a problem identified in software design.
 - **Proxy Pattern**: A design pattern allows a proxy class to represent a real subject class
 - **Decorator Pattern**: A structural pattern that allows additional behaviours or responsibilities to be dynamically attached to an object, through the use of aggregation to combine behaviours at run time.
 
-### Behavioural Pattern
+## Behavioural Pattern
 - **Template Method Pattern**: A behavioural design pattern that defines an algorithm’s steps generally, deferring the implementation of some steps to subclasses. In other words, it is concerned with the assignment of responsibilities.
 - **Chain of Responsibility Pattern**: A design pattern that is a chain of objects responsible for handling requests.
 - **State Pattern**: A behavioural design pattern that can occur as objects in your code are aware of their current state, and thus can choose an appropriate behaviour based on their current state. When the current state changes, this behaviour can be altered.
 - **Command Pattern**: A behavioural pattern for encapsulating requests as objects.
-
 - **Observer Pattern**: A behavioral​ pattern​ for​ event handling.
